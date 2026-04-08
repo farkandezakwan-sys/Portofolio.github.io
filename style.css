@@ -1,0 +1,9 @@
+body {
+  background: lightgray;
+  font-family: Arial;
+}
+
+.dark {
+  background: black;
+  color: white;
+}
